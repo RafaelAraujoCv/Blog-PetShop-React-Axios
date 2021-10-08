@@ -1,0 +1,9 @@
+- npm install -> baixar dependencias
+
+- npm start -> iniciar projeto
+
+- Ctrl J -> abrir terinal 
+
+- npm i react-router-dom -> react router dom, criar rotas
+
+- npx json-server --watch db.json --port 5000 -> Subir servidor
